@@ -1,0 +1,14 @@
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\bin\Debug\net8.0\Task_Calcolatrice.exe
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\bin\Debug\net8.0\Task_Calcolatrice.deps.json
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\bin\Debug\net8.0\Task_Calcolatrice.runtimeconfig.json
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\bin\Debug\net8.0\Task_Calcolatrice.dll
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\bin\Debug\net8.0\Task_Calcolatrice.pdb
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.AssemblyInfo.cs
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.dll
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\refint\Task_Calcolatrice.dll
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.pdb
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\Task_Calcolatrice.genruntimeconfig.cache
+C:\Users\Utente\source\repos\Task_Calcolatrice\Task_Calcolatrice\obj\Debug\net8.0\ref\Task_Calcolatrice.dll

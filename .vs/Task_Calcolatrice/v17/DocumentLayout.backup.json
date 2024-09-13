@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task_Calcolatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8547FC7A-0839-4ACB-AA8B-7B9AACA46228}|Task_Calcolatrice\\Task_Calcolatrice.csproj|c:\\users\\utente\\source\\repos\\task_calcolatrice\\task_calcolatrice\\classes\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8547FC7A-0839-4ACB-AA8B-7B9AACA46228}|Task_Calcolatrice\\Task_Calcolatrice.csproj|solutionrelative:task_calcolatrice\\classes\\calcolatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8547FC7A-0839-4ACB-AA8B-7B9AACA46228}|Task_Calcolatrice\\Task_Calcolatrice.csproj|c:\\users\\utente\\source\\repos\\task_calcolatrice\\task_calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8547FC7A-0839-4ACB-AA8B-7B9AACA46228}|Task_Calcolatrice\\Task_Calcolatrice.csproj|solutionrelative:task_calcolatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 191,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calcolatrice.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Calcolatrice\\Task_Calcolatrice\\Classes\\Calcolatrice.cs",
+              "RelativeDocumentMoniker": "Task_Calcolatrice\\Classes\\Calcolatrice.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Calcolatrice\\Task_Calcolatrice\\Classes\\Calcolatrice.cs",
+              "RelativeToolTip": "Task_Calcolatrice\\Classes\\Calcolatrice.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAowLYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:30:28.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_Calcolatrice\\Task_Calcolatrice\\Program.cs",
+              "RelativeDocumentMoniker": "Task_Calcolatrice\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_Calcolatrice\\Task_Calcolatrice\\Program.cs",
+              "RelativeToolTip": "Task_Calcolatrice\\Program.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwEAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:12:36.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
